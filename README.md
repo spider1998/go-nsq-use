@@ -1,1 +1,1 @@
-# go-nsq-use
+# go-nsq-use测试
